@@ -1,0 +1,9 @@
+
+p {
+    width: 20vw;
+    color: white;
+    background-color: rgb(189, 118, 118);
+    border-color: red;
+    border-width: 0.5em;
+    border-style: solid;
+}
